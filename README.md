@@ -1,3 +1,3 @@
-# csharp-simple raffle automation
+# csharp-simple-raffle-application
 
-Simple raffle automation I did using a form.
+Simple raffle application I did using a form.
